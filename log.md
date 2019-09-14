@@ -1,7 +1,7 @@
 # Day 1: Installing Python
-**Completion Date:** 
+**Completion Date:*09/04/2019* 
 
-**Learned:** 
+**Learned:*Learnt about PyCharm* 
 
 # Day 2: Printing in Python
 **Completion Date:** 
