@@ -14,9 +14,9 @@
 **Learned:** about operators and thier results
 
 # Day 4: Variables & Variable Types
-**Completion Date:** 
+**Completion Date:** 09/14/209
 
-**Learned:** 
+**Learned:** Variables
 
 # Day 5: String Formatting
 **Completion Date:** 
