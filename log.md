@@ -1,17 +1,17 @@
 # Day 1: Installing Python
-**Completion Date:*09/04/2019* 
+**Completion Date:*09/14/2019* 
 
 **Learned:*Learnt about PyCharm* 
 
 # Day 2: Printing in Python
-**Completion Date:** 09/04/2019
+**Completion Date:** 09/14/2019
 
 **Learned:** Learnt about different formatting options in print statement
 
 # Day 3: Operators
-**Completion Date:** 
+**Completion Date:** 09/14/2019
 
-**Learned:** 
+**Learned:** about operators and thier results
 
 # Day 4: Variables & Variable Types
 **Completion Date:** 
