@@ -4,9 +4,9 @@
 **Learned:*Learnt about PyCharm* 
 
 # Day 2: Printing in Python
-**Completion Date:** 
+**Completion Date:** 09/04/2019
 
-**Learned:** 
+**Learned:** Learnt about different formatting options in print statement
 
 # Day 3: Operators
 **Completion Date:** 
