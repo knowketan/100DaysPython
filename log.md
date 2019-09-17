@@ -19,9 +19,9 @@
 **Learned:** Variables
 
 # Day 5: String Formatting
-**Completion Date:** 
+**Completion Date:** 09/16/2019
 
-**Learned:** 
+**Learned:** String Formatting
 
 # Day 6: Lists
 **Completion Date:** 
