@@ -24,7 +24,7 @@
 **Learned:** 
 
 # Day 6: Lists
-**Completion Date:** 
+**Completion Date:** 09/17/2019
 
 **Learned:** 
 
