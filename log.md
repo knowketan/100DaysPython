@@ -29,7 +29,7 @@
 **Learned:** 
 
 # Day 7: Ranges
-**Completion Date:** 
+**Completion Date:*09/25/2019* 
 
 **Learned:** 
 
