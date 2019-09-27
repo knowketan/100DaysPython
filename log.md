@@ -34,7 +34,7 @@
 **Learned:** 
 
 # Day 8: Tuples
-**Completion Date:** 
+**Completion Date:*09/27/2017* 
 
 **Learned:** 
 
