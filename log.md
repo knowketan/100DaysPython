@@ -39,12 +39,12 @@
 **Learned:** 
 
 # Day 9: Index and Slicing
-**Completion Date:** 
+**Completion Date:*10/14/2019* 
 
 **Learned:** 
 
 # Day 10: If/Else
-**Completion Date:** 
+**Completion Date:*10/16/2019* 
 
 **Learned:** 
 
