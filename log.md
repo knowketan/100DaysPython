@@ -49,7 +49,7 @@
 **Learned:** 
 
 # Day 11: Augmented Assignments
-**Completion Date:** 
+**Completion Date:*10/16/2019* 
 
 **Learned:** 
 
