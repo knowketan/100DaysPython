@@ -54,7 +54,7 @@
 **Learned:** 
 
 # Day 12: For/While Loops
-**Completion Date:** 
+**Completion Date:*10/16/2019* 
 
 **Learned:** 
 
