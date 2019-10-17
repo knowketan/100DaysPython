@@ -59,7 +59,7 @@
 **Learned:** 
 
 # Day 13: Continue/Break
-**Completion Date:** 
+**Completion Date:*10/16/2019* 
 
 **Learned:** 
 
